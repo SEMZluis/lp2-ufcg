@@ -1,5 +1,5 @@
 # Laboratório de Programação 2 - 2026.1
-> Repositório dedicado ao armazenamento de exerícios e projetos da disciplina como forma de praticar o paradigma de programação orientado à objetos e aprender a linguagem Java.
+> Repositório dedicado ao armazenamento de exercícios e projetos da disciplina.
 
 ## 📖 Sobre a disciplina 
 Segundo o [Projeto Pedagógico de 2023](https://cgcc.ufcg.edu.br/docs/ppc-2023.pdf), a ementa da disciplina é composta por:
